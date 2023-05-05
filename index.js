@@ -83,26 +83,6 @@ function init() {
 }
 
 const generateMarkDown = (userAnswers) => {
-  //takes answers from user and creates mark down from it
-  console.log("USER ANSWERS: ", userAnswers);
-
-  // const markdown = (userAnswers) => {
-  //   return ` # Here is all you need to know about my project
-  //
-  // # Project Title: ${userAnswers.projectTitle}
-  //
-  // ## Project Github URL: ${userAnswers.projectGithub}
-  //
-  // ## Installation:${userAnswers.installation}
-  //
-  // ## Usage:${userAnswers.Usage}
-  //
-  // ## Contribution:${userAnswers.projectGithub}
-  //
-  // ## Test:${userAnswers.tests}
-  // `;
-  // };
-
   // once i have created the markdown (basically just text), I will create a README file with it
   console.log("creating markdown file");
   writeToFile("README.md", generateMarkdown(userAnswers));
