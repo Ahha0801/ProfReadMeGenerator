@@ -21,8 +21,8 @@ Hana Ahmed
 
 Uploading Demo README.md2.mov…
 
-![Image](<img src="test.jpg">)
-Demo 
+
+<img width="925" alt="test" src="https://github.com/Ahha0801/ProfReadMeGenerator/assets/128229173/f68feb72-f0ca-47d7-a7ec-98f7a695390b">
 
 ### Contact-Information
 [Github Profile](https://github.com/Ahha0801)
