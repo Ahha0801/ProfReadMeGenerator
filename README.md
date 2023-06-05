@@ -12,7 +12,8 @@
 ### Description
 This is a node application, that uses inquierer to get user input through a series of prompts, in the terminal, and generates a README.md file in markdown, based on their input.
 ### Installation
-First git clone this repo, then npm i at the root.
+First git clone this repo, 
+then npm i at the root.
 ### Usage
 After installing node mods, run node index.js at the root, and submit your answers to each question through the terminal.
 ### Contribution
